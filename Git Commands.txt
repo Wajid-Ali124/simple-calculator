@@ -1,0 +1,7 @@
+To update the Files on Git
+
+first--> git add .                      ---> adds all the file to git localstore on your pc
+
+Second--> git commit -m "Meesage"       ---> adds comment to new files or the file in which you changed code
+
+third--> git push origin main           ---> pushes the change to the main branch
